@@ -1,2 +1,2 @@
 # Maze-Generator
-Maze Gnerator using Python and finding it's path using pygame
+Maze Generator using Python and finding it's path using pygame
